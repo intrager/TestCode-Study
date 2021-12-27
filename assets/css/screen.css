@@ -627,7 +627,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     min-height: 230px;
     font-family: Georgia, 'Nanum Gothic', serif;
     font-size: 2.2rem;
-    line-height: 1.6rem;
+    line-height: 1.6em;
     background: #fff;
 }
 
