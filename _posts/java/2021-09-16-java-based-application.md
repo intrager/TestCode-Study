@@ -7,7 +7,7 @@ title: 자바 기반 웹 애플리케이션 개발
 date: 2021-09-16 12:01:01
 tags: [java]
 class: post-template
-subclass: 'post tag-Java'
+subclass: 'post tag-java'
 author: bruceHan
 ---
 

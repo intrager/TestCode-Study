@@ -10,3 +10,7 @@ iOS :
   name: iOS
   description: False
   cover: assets/built/images/background-iOS.jpg
+etc:
+  name: etc
+  description: False
+  cover: assets/built/images/background-sunset.jpg

@@ -7,7 +7,7 @@ title: 자바 기반 웹 컨테이너들 정리
 date: 2021-09-23 12:01:01
 tags: [java]
 class: post-template
-subclass: 'post tag-Java'
+subclass: 'post tag-java'
 author: bruceHan
 ---
 
