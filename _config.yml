@@ -141,8 +141,8 @@ exclude:
   - vendor
   - .travis.yml
   - node_modules
-  - assets/css
-  - assets/images
+  #- assets/css
+  #- assets/images
   - _posts/angular
   - _posts/et-cetera
   # - _posts/python
