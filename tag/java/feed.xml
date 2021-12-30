@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://intrager.github.io/tag/java/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://intrager.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-12-30T14:52:49+00:00</updated>
+  <id>https://intrager.github.io/tag/java/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Jeet Kune Coding | </title>
+  
+
+  
+    <subtitle>꾸준히 수련하는 개발자의 기록 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">자바 기반 웹 컨테이너들 정리</title>
+      <link href="https://intrager.github.io/java-container" rel="alternate" type="text/html" title="자바 기반 웹 컨테이너들 정리" />
+      <published>2021-09-23T12:01:01+00:00</published>
+      <updated>2021-09-23T12:01:01+00:00</updated>
+      <id>https://intrager.github.io/java-container</id>
+      <content type="html" xml:base="https://intrager.github.io/java-container">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java / JSP / Servlet &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-container&quot;&gt;자바 기반 웹 컨테이너들 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-based-application&quot;&gt;자바 기반 웹 애플리케이션 개발&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Servlet/JSP 컨테이너&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;hello world&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;내용 출처 : JSP프로그래밍(21-2학기)유응구교수님 강의 내용 中 일부 요약&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>bruceHan</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="java" />
+      
+
+      
+        <summary type="html">Java / JSP / Servlet 자바 기반 웹 컨테이너들 정리 자바 기반 웹 애플리케이션 개발</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">자바 기반 웹 애플리케이션 개발</title>
+      <link href="https://intrager.github.io/java-based-application" rel="alternate" type="text/html" title="자바 기반 웹 애플리케이션 개발" />
+      <published>2021-09-16T12:01:01+00:00</published>
+      <updated>2021-09-16T12:01:01+00:00</updated>
+      <id>https://intrager.github.io/java-based-application</id>
+      <content type="html" xml:base="https://intrager.github.io/java-based-application">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java / JSP / Servlet &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-container&quot;&gt;자바 기반 웹 컨테이너들 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-based-application&quot;&gt;자바 기반 웹 애플리케이션 개발&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;일단, 자바 기반으로 웹 애플리케이션을 개발하면 뭐가 좋나요?&lt;/p&gt;
+
+&lt;p&gt;내용 출처 : JSP프로그래밍(21-2학기)유응구교수님 강의 내용 中 일부 요약&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>bruceHan</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="java" />
+      
+
+      
+        <summary type="html">Java / JSP / Servlet 자바 기반 웹 컨테이너들 정리 자바 기반 웹 애플리케이션 개발</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://intrager.github.io/sitemap.xml

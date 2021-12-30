@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>꾸준히 수련하는 개발자의 기록 블로그</description>
+    <link>
+    https://intrager.github.io</link>
+    
+      
+      <item>
+        <title>자바 기반 웹 컨테이너들 정리</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java / JSP / Servlet &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-container&quot;&gt;자바 기반 웹 컨테이너들 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-based-application&quot;&gt;자바 기반 웹 애플리케이션 개발&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 23 Sep 2021 12:01:01 +0000</pubDate>
+        <link>
+        https://intrager.github.io/java-container</link>
+        <guid isPermaLink="true">https://intrager.github.io/java-container</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>자바 기반 웹 애플리케이션 개발</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java / JSP / Servlet &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-container&quot;&gt;자바 기반 웹 컨테이너들 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-based-application&quot;&gt;자바 기반 웹 애플리케이션 개발&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 16 Sep 2021 12:01:01 +0000</pubDate>
+        <link>
+        https://intrager.github.io/java-based-application</link>
+        <guid isPermaLink="true">https://intrager.github.io/java-based-application</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>웹(WEB) 관련 기초 지식들 - 1</title>
+        
+          <description>&lt;hr /&gt;
+
+</description>
+        
+        <pubDate>Fri, 03 Sep 2021 12:01:01 +0000</pubDate>
+        <link>
+        https://intrager.github.io/web-basic2</link>
+        <guid isPermaLink="true">https://intrager.github.io/web-basic2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>웹(WEB) 관련 기초 지식들 - 1</title>
+        
+          <description>&lt;hr /&gt;
+
+</description>
+        
+        <pubDate>Thu, 02 Sep 2021 12:01:01 +0000</pubDate>
+        <link>
+        https://intrager.github.io/web-basic1</link>
+        <guid isPermaLink="true">https://intrager.github.io/web-basic1</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
